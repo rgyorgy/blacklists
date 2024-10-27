@@ -16,3 +16,4 @@ ngrok-free.app
 ngrok.io
 twinrdsyn.com
 waredot.com
+temu.com
