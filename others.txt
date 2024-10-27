@@ -10,3 +10,4 @@ ngrok-free.app
 ngrok.io
 twinrdsyn.com
 waredot.com
+gigasers.de
