@@ -2,3 +2,4 @@ t.co
 twitter.com
 x.com
 twimg.com
+twimg.com.cdn.cloudflare.net
