@@ -84,7 +84,9 @@ sf16-webcast.tiktokcdn.com
 share.musemuse.cn
 support.tiktok.com
 tiktok.com
+tiktokcdn-eu.com
 tiktokv.com
+tiktokv.us
 v.tiktok.com
 v16.muscdn.com
 v16.musical.ly
@@ -105,4 +107,3 @@ www.musical.ly
 www.tiktok.com
 xlog-va.musical.ly
 xlog-va.tiktokv.com
-tiktokv.us
