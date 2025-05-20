@@ -3,6 +3,7 @@
 astronet.hu
 bama.hu
 baon.hu
+behir.hu
 beol.hu
 blikk.hu
 blogstar.hu
@@ -47,6 +48,7 @@ pestisracok.hu
 promenad24.hu
 ripost.hu
 sonline.hu
+szegedma.hu
 szeged365.hu
 szoljon.hu
 szon.hu
