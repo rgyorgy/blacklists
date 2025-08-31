@@ -20,6 +20,7 @@ nastech-ip-security.com
 ngrok-free.app
 ngrok.io
 temu.com
+prod.service.minerva.devices.a2z.com
 temu.hu
 twinrdsyn.com
 waredot.com
